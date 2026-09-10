@@ -1,0 +1,7 @@
+texture,category,rank,beta,alpha,max_iter,phase_method,sdr,mci,bark_entropy
+polyphonic_choir,BEST,16,2,0.0,300,griffin_lim,10.565864,-2.0041,0.07081853
+polyphonic_choir,WORST,2,0,0.1,100,griffin_lim,2.8322766,-4.852292,0.07081853
+rainforest,BEST,16,2,0.0,300,griffin_lim,28.985695,-0.8540274,0.1633431
+rainforest,WORST,4,0,0.1,100,griffin_lim,19.422243,-2.5676167,0.1633431
+reverberant_speech,BEST,16,2,0.0,300,griffin_lim,9.708645,-1.63485,0.035953607
+reverberant_speech,WORST,2,0,0.1,100,griffin_lim,3.3467894,-2.9425344,0.035953607
